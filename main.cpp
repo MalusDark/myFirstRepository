@@ -14,7 +14,8 @@ int main()
 	cout << "Числа: " << num1 << "; " << num2 << endl;
 
 	cout << "Сумма введенных чисел: " << num1 + num2 << endl;
-
+	
+	cout << "division: " << num1 / num2 << endl;
 	return 0;
 }
 
