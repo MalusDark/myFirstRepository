@@ -15,7 +15,8 @@ int main()
 
 	cout << "Сумма введенных чисел: " << num1 + num2 << endl;
 	
-	cout << "division: " << num1 / num2 << endl;
+	cout << "Разность введенных чисел: " << num1 - num2 << endl;
+	
 	return 0;
 }
 
