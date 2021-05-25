@@ -17,6 +17,8 @@ int main()
 	
 	cout << "Разность введенных чисел: " << num1 - num2 << endl;
 	
+	cout << "Multyplication: " << num1 * num2 <<endl;
+	
 	return 0;
 }
 
