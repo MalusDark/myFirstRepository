@@ -3,7 +3,7 @@
 using namespace std;
 
 void input(int*, int*);
-
+//Данная программа является учебной
 int main()
 {
 	setlocale(LC_ALL, "rus");
@@ -16,8 +16,6 @@ int main()
 	cout << "Сумма введенных чисел: " << num1 + num2 << endl;
 	
 	cout << "Разность введенных чисел: " << num1 - num2 << endl;
-	
-	cout << "Multyplication: " << num1 * num2 <<endl;
 	
 	return 0;
 }
